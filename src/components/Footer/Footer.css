@@ -1,0 +1,24 @@
+.footer-container {
+    background-color: gray; 
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+  }
+  
+  
+  .footer-text {
+    font-size: 14px; 
+  }
+  
+  
+  .footer-link {
+    color: #fff; 
+    text-decoration: none; 
+    margin: 0 10px; 
+  }
+  
+  
+  .footer-link:hover {
+    text-decoration: underline; 
+  }
+  

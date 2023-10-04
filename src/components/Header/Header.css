@@ -1,0 +1,24 @@
+/* Header.css */
+
+.header-container {
+    background-color: gray; 
+    color: skyblue; 
+    padding: 1rem; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .header-container h1 {
+    margin: 0;
+  }
+  
+  
+  .jordan-logo {
+    width: 2rem; 
+    height: 2rem; 
+    border: 2px solid black; 
+    border-radius: 50%; 
+    margin-right: 0.5rem; 
+  }
+  
